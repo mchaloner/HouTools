@@ -36,4 +36,5 @@ Using the script:
 
 Once you've created the shelf tool, select the texture nodes you want to triplanar - remember to change the scale parameter afterwards
 
-![Recording 2026-02-19 095939](https://github.com/user-attachments/assets/2f41f6c4-e5c5-4607-b330-8b3cc4294386)
+![Recording 2026-02-19 100043](https://github.com/user-attachments/assets/ad6c01f9-4f4c-47ed-ab69-0dab52623e74)
+
