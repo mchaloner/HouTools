@@ -26,6 +26,11 @@ Once you've created the shelf tool, simply click the tool and select your desire
 
 Download from here - https://substance3d.adobe.com/assets/
 
+** caveats **
+
+Some older sbsar's don't work! Some use Base Color, which messes with the Layer renaming, needs Diffuse to work. 
+Some sbsar's don't switch DirectX to OpenGL - these should be avoided as the normals will not be correct
+
 Create Triplanar
 
 Use this to easily add triplanar to your node networks.
