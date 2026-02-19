@@ -1,6 +1,8 @@
 import hou
 import random
 
+# code by Marcus Chaloner - http://www.marcuschaloner.com - 2020-2026
+
 
 def createParams(selectedNodes):
 
