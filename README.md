@@ -1,12 +1,13 @@
 Currently all works with H21 + Redshift
 
-SBSAR Importer
+# SBSAR Importer
 
 Use this to import a .sbsar file
 
 This script uses the OLD cop network (Not Copernicus) the idea behind this is to create a simple bridge enabling users to still use sbsar's in Houdini. Without all the faff of setting up old COP networks. It also creates redshift materials.
 
-Installation setups:
+
+## Installation setups:
 
 Create new shelf tool
 
@@ -31,7 +32,8 @@ Download from here - https://substance3d.adobe.com/assets/
 Some older sbsar's don't work! Some use Base Color, which messes with the Layer renaming, needs Diffuse to work. 
 Some sbsar's don't switch DirectX to OpenGL - these should be avoided as the normals will not be correct
 
-Create Triplanar
+
+# Create Triplanar
 
 Use this to easily add triplanar to your node networks.
 
@@ -40,6 +42,7 @@ Installation instructions same as above
 Using the script:
 
 Once you've created the shelf tool, select the texture nodes you want to triplanar - remember to change the scale parameter afterwards
+
 
 ![Recording 2026-02-19 100043](https://github.com/user-attachments/assets/ad6c01f9-4f4c-47ed-ab69-0dab52623e74)
 
