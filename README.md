@@ -1,4 +1,4 @@
-Currently all works with H21 + Redshift
+Currently all works with H 21.0.512 + Redshift
 
 # SBSAR Importer
 
