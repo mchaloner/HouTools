@@ -9,13 +9,16 @@ This script uses the OLD cop network (Not Copernicus) the idea behind this is to
 Installation setups:
 
 Create new shelf tool
-<img width="131" height="101" alt="Screenshot 2026-02-19 094948" src="https://github.com/user-attachments/assets/5eb6a563-ed42-40b8-b429-9c464cd753ca" />
+
+<img width="200" alt="Screenshot 2026-02-19 094948" src="https://github.com/user-attachments/assets/5eb6a563-ed42-40b8-b429-9c464cd753ca" />
 
 Copy code and paste into script section
-<img width="1511" height="1539" alt="Screenshot 2026-02-19 095102" src="https://github.com/user-attachments/assets/cfb74b00-a477-47f7-96c3-eb2cc270200a" />
+
+<img width="500" alt="Screenshot 2026-02-19 095102" src="https://github.com/user-attachments/assets/cfb74b00-a477-47f7-96c3-eb2cc270200a" />
 
 Give it a name
-<img width="583" height="299" alt="Screenshot 2026-02-19 095204" src="https://github.com/user-attachments/assets/92f0c450-f024-4846-9197-ec5cd616fd18" />
+
+<img width="200" alt="Screenshot 2026-02-19 095204" src="https://github.com/user-attachments/assets/92f0c450-f024-4846-9197-ec5cd616fd18" />
 
 Using the script:
 
